@@ -5,4 +5,4 @@ name = st.text_input("Nhập tên của bạn")
 if name:
     st.write(f"Xin chào {name}!")
 st.subheader("Ý nghĩa cloud")
-st.write("Khi triển khai lên Streamlit Cloud, ứng dụng này sẽ chạy trên nền tảng PaaS.")
+st.title("Cloud PaaS Demo - Updated Version")
